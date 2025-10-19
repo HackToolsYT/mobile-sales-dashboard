@@ -18,7 +18,7 @@ This Power BI dashboard provides insights into mobile sales performance, includi
 ![Mobile Sales Dashboard](mobile%20dashboard.png)
 
 ### 📂 Files
-[Download Power BI File (.pbix)](https://github.com/vikas-goswami/mobile-sales-dashboard/blob/main/Mobile%20Sales%20Dashboard.pbix?raw=true)
+- [Download Power BI File (.pbix)](https://github.com/vikas-goswami/mobile-sales-dashboard/releases/download/v1.0/Mobile.Sales.Dashboard.pbix)
 - `README.md` — Project documentation  
 
 ---
