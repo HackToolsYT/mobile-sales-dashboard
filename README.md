@@ -16,7 +16,7 @@ This Power BI dashboard provides insights into mobile sales performance, includi
 
 ### 🖼️ Dashboard Preview
 (Add screenshot image here, e.g.)
-![Dashboard Screenshot](mobile dashboard.png)
+([mobile dashboard.png](https://github.com/HackToolsYT/mobile-sales-dashboard/tree/main))
 
 ### 📂 Files
 - `Mobile Sales Dashboard.pbix` — Power BI file  
