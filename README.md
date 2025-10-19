@@ -15,7 +15,7 @@ This Power BI dashboard provides insights into mobile sales performance, includi
 - Seasonal spikes observed in Q4.
 
 ### 🖼️ Dashboard Preview
-(https://github.com/HackToolsYT/mobile-sales-dashboard/tree/main)
+![Mobile dashboard](https://github.com/HackToolsYT/mobile-sales-dashboard/tree/main)
 
 ### 📂 Files
 - `Mobile Sales Dashboard.pbix` — Power BI file  
